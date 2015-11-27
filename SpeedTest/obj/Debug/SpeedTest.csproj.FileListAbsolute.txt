@@ -1,1 +1,6 @@
 c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\SpeedTest\SpeedTest\bin\Debug\SpeedTest.exe.config
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\SpeedTest\SpeedTest\bin\Debug\SpeedTest.exe
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\SpeedTest\SpeedTest\bin\Debug\SpeedTest.pdb
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\SpeedTest\SpeedTest\obj\Debug\SpeedTest.csprojResolveAssemblyReference.cache
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\SpeedTest\SpeedTest\obj\Debug\SpeedTest.exe
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\SpeedTest\SpeedTest\obj\Debug\SpeedTest.pdb
